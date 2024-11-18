@@ -1,0 +1,4 @@
+payload: 
+ # 自用直连规则
+
+ - DOMAIN-SUFFIX,pttime,Custom_direct
