@@ -2,3 +2,13 @@ payload:
  # 自用代理规则
 
  - DOMAIN-SUFFIX,metacubex.one,Custom_proxy
+ - DOMAIN-SUFFIX,sagernet.org,Custom_proxy
+ - DOMAIN-SUFFIX,movie-pilot.org,Custom_proxy
+ - DOMAIN-SUFFIX,hysteria.network,Custom_proxy
+ - DOMAIN-SUFFIX,v2rayssr.com,Custom_proxy
+ - DOMAIN-SUFFIX,wallhaven.cc,Custom_proxy
+ - DOMAIN-SUFFIX,docker.com,Custom_proxy
+ - DOMAIN-SUFFIX,slider.kz,Custom_proxy
+ - DOMAIN-SUFFIX,ovofast.com,Custom_proxy
+
+
