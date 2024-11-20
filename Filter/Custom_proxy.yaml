@@ -11,4 +11,9 @@ payload:
  - DOMAIN-SUFFIX,slider.kz,Custom_proxy
  - DOMAIN-SUFFIX,ovofast.com,Custom_proxy
 
+ # APKPure
+ - DOMAIN-SUFFIX,cdnpure.com,Custom_proxy
+ - DOMAIN-SUFFIX,pureapk.com,Custom_proxy
+ - DOMAIN-SUFFIX,apkpure.com,Custom_proxy
+
 
