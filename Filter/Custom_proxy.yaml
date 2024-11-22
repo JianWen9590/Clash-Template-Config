@@ -16,4 +16,6 @@ payload:
  - DOMAIN-SUFFIX,pureapk.com,Custom_proxy
  - DOMAIN-SUFFIX,apkpure.com,Custom_proxy
 
+ # IObit
+ - DOMAIN-SUFFIX,iobit.com,Custom_proxy
 
