@@ -18,4 +18,5 @@ payload:
 
  # IObit
  - DOMAIN-SUFFIX,iobit.com,Custom_proxy
+ - DOMAIN-SUFFIX,cd4o.com,Custom_proxy
 
