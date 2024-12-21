@@ -10,6 +10,7 @@ payload:
  - DOMAIN-SUFFIX,docker.com,Custom_proxy
  - DOMAIN-SUFFIX,slider.kz,Custom_proxy
  - DOMAIN-SUFFIX,ovofast.com,Custom_proxy
+ - DOMAIN-SUFFIX,qichiyu.com,Custom_proxy
 
  # APKPure
  # - DOMAIN-SUFFIX,cdnpure.com,Custom_proxy
